@@ -7,6 +7,5 @@ Project 1  (Titanic_survival)
     
 Project 2 (Click_on_add)
 
-     In this project I used a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement.
-     and to create a LOGISTIC REGRESSION model that will predict whether or not they will click on an ad based off the features of that 
-     user.
+     Using a Advertising data set, predicting whether or not a particular internet user clicked on an Advertisement using a LOGISTIC       
+     REGRESSION model on various features of user like Daily Time Spent on Site,Age,Area Income,Daily Internet Usage etc.
